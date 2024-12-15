@@ -11,10 +11,11 @@ Welcome to the World of Cybersecurity Learning!
 
 ## How to Submit 📤
 * **Fork** this repository.
-* Inside the `submissions` folder, you will find folders named `week1`, `week2`, and so on for each week's tasks.
-  * Create a subfolder within the respective week folder with your username.
-  * For example, if your username is `cyber_student` and you are submitting for week 1, your folder should look like `submissions/week1/cyber_student/`.
-* Place your solutions inside your username folder.
+* Inside the `submissions` folder:
+  * Create a subfolder with your username.
+  * Inside your folder, create subfolders `week1`, `week2` and so on for your submissions.
+  * For example, if your username is `cyber_student` and you are submitting for week 1, your folder should look like `submissions/cyber_student/week1/`.
+* Place your solutions only inside your own folder.
 * Submit your work by creating a **Pull Request (PR)** to the main repository.
 
 ## Grading Benchmark 🏆
