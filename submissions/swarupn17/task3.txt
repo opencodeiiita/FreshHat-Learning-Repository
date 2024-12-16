@@ -1,0 +1,5 @@
+Test File for task3
+Gives executable permission to file.
+Commands used:
+1. sudo su -
+2. chmod +x text3.txt
