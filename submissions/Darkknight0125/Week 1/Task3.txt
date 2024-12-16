@@ -1,0 +1,5 @@
+sudo su
+chmod +x sample.sh
+ls -l sample.sh
+
+Drive- https://drive.google.com/file/d/1UEhIyOcpC4QC5b8yOBeUVprEXz-0Nw5S/view?usp=drive_link  
