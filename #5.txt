@@ -1,0 +1,8 @@
+Commands used
+mkdir new_directory
+cd new_directory
+touch new_file.txt
+ls -l
+
+
+https://drive.google.com/file/d/173FU1jEgSAiPHUZgfOmCtR6V0qyIB1BT/view?usp=sharing
