@@ -1,0 +1,4 @@
+root@LAPTOP-EMH0HQHF:~/m3/FreshHat-Learning-Repository/submissions/adityaagg/week1# mkdir task4
+root@LAPTOP-EMH0HQHF:~/m3/FreshHat-Learning-Repository/submissions/adityaagg/week1# cd task4/
+root@LAPTOP-EMH0HQHF:~/m3/FreshHat-Learning-Repository/submissions/adityaagg/week1/task4# touch task4.txt
+
