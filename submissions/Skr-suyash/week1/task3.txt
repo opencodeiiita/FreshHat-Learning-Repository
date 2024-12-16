@@ -1,0 +1,5 @@
+## Commands Used ##
+Uperuser privileges -> sudo su
+Give permission to execute to user -> chmod +x script.sh
+Verify Permission -> ls -l
+
