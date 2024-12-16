@@ -1,0 +1,7 @@
+Commands
+
+mkdir foldername
+
+cd foldername
+
+touch filename
