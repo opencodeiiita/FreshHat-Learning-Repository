@@ -1,0 +1,5 @@
+## Commands Used ##
+1. To create folder -> mkdir test
+2. Go to file -> cd test
+3. To create file -> touch test.txt
+4. To verify file creation -> ls
