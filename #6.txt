@@ -1,0 +1,4 @@
+Commands used
+
+ls
+ls -a
