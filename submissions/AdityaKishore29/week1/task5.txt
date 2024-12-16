@@ -1,0 +1,2 @@
+ls - To get list of files in directory
+ls -a - To get list of files with hidden files
