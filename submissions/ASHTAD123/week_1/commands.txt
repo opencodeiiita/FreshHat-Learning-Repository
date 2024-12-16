@@ -1,5 +1,3 @@
-sudo su
+mkdir test
 
-chmod +x hello.py
-
-ls -l
+touch test/one.txt
