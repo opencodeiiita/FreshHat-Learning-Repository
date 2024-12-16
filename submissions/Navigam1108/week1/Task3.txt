@@ -1,0 +1,2 @@
+file for task3
+permission changed to r/w only for owner
