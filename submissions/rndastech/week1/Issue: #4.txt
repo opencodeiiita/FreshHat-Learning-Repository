@@ -1,0 +1,3 @@
+sudo -i
+chmod +x /home/kali/test.txt
+ls -l /home/kali/test.txt
