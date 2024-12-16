@@ -1,0 +1,5 @@
+//for root
+sudo su 
+
+//for execute permission
+chmod +x <file>
