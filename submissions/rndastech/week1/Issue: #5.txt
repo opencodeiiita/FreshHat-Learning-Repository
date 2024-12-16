@@ -1,0 +1,4 @@
+mkdir tester
+cd tester
+touch notes.txt
+ls -l
