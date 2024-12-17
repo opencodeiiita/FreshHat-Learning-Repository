@@ -1,0 +1,3 @@
+sudo su
+chmod +x opencode.sh
+ls -l opencode.sh
