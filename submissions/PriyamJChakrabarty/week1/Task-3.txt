@@ -1,0 +1,2 @@
+sudo -i
+sudo chmod +x run.sh

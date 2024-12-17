@@ -1,0 +1,4 @@
+mkdir ashu
+cd ashu
+touch test.txt
+ls -l
