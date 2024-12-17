@@ -1,0 +1,6 @@
+Commands used:
+
+1. mkdir task4
+2. cd task4
+3. touch file.txt
+4. ls
