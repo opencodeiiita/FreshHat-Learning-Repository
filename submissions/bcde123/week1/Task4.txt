@@ -1,0 +1,7 @@
+Commands
+
+mkdir newfolder
+
+cd foldername
+
+touch newfile
