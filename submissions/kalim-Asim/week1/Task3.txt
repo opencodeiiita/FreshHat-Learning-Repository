@@ -1,8 +1,0 @@
-//enter superuser mode
-sudo su
-
-//change file permission to executable
-chmod +x filename
-
-//view file permission
-ls -l filename
