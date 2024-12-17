@@ -1,0 +1,4 @@
+mkdir Priyam
+cd Priyam
+touch Hello.txt
+ls -l
