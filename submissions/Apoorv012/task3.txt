@@ -1,0 +1,1 @@
+file for task3, added write permission to bash file
