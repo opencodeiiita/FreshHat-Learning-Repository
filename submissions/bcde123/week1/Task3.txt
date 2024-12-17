@@ -1,0 +1,10 @@
+Commands used
+
+sudo su -
+-> to use the root terminal
+
+chmod 600 hello.py
+-> to change file permission
+
+ls -l 
+-> to show permissions
