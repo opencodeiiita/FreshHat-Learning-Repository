@@ -1,0 +1,5 @@
+Commands Used:
+ls -l
+sudo su
+chmod +x File1.txt 
+ls -l
