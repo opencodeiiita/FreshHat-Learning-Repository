@@ -1,4 +1,0 @@
-mkdir Task4
-cd Task4
-touch test.txt
-ls -l
