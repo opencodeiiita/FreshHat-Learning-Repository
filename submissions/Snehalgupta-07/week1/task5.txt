@@ -1,0 +1,4 @@
+#task5
+commands used-
+ls
+ls -a
