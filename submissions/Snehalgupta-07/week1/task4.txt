@@ -1,0 +1,8 @@
+#task4
+
+commands used-
+mkdir dir5
+cd dir5
+touch ft.txt
+cd ..
+ls -l dir5
