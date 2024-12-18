@@ -1,0 +1,5 @@
+#task 3
+Commands used-
+sudo -s
+chmod +x hello.c
+ls -l hello.c
