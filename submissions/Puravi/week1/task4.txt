@@ -1,0 +1,4 @@
+mkdir newdirectory
+cd newdirectory
+touch task4.txt
+ls
