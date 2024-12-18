@@ -1,0 +1,2 @@
+ls    
+ls-a (list all files including hidden ones)

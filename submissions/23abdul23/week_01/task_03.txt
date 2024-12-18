@@ -1,0 +1,9 @@
+Commands used:-
+For superuser mode
+
+sudo su
+
+
+For giving executable permissions to any file
+
+chmod +x *filename*

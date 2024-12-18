@@ -1,0 +1,10 @@
+commands used to create new directory "Task4" and text file "s.txt" inside it:
+mkdir Task4            (create a new directory)
+cd Task4               (go inside the directory)
+touch s.txt            (create a new text file)
+
+to check if created:
+cd ..                   (go back to home)
+ls                      (to list all directories and files, we can find Task4 here)
+cd Task4                (go inside Task4)
+ls                      (list all files and directories inside Task4, we can see s.txt here)
