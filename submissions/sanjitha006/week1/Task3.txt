@@ -1,0 +1,4 @@
+commands used:
+sudo su
+chmod +x x.txt  (file to change permissions- x.txt)
+ls -l           (verify)
