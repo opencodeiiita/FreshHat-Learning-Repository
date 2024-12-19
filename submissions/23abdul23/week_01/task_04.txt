@@ -1,0 +1,5 @@
+Commanads used:
+
+cd (to change directory)
+mkdir (to make a new folder)
+touch (to make a new file)
