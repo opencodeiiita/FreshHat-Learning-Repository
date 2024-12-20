@@ -1,0 +1,4 @@
+Commands Used:
+touch
+sudo chmod +x
+ls -l
