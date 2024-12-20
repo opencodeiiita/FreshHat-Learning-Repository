@@ -1,0 +1,5 @@
+# task4
+commands used-
+mkdir
+touch
+ls
