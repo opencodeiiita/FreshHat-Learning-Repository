@@ -1,0 +1,8 @@
+Creating a Directory and a file using terminal
+
+Commands used:
+mkdir
+touch
+cd
+touch
+ls
