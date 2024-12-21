@@ -1,0 +1,5 @@
+Commands
+1. chmod +x index.txt
+2. ls -l index.txt
+
+# https://drive.google.com/file/d/1AUfP2-28a0iiel_LckcWO_4A4wzLTr5k/view?usp=sharing
