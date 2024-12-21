@@ -1,0 +1,7 @@
+Command to change permissions-
+    chmod +x python.py
+    or ant file name 
+
+Command to check permissions-
+    ls -l python.py
+
