@@ -1,0 +1,5 @@
+commands
+
+1. mkdir testFolder
+2. cd testFolder
+3. touch index.txt
