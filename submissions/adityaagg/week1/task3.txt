@@ -1,0 +1,5 @@
+Commands Used:
+ls -l
+sudo su
+chmod +x task4.txt 
+ls -l
