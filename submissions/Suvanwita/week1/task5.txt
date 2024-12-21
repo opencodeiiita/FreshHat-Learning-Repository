@@ -1,0 +1,2 @@
+ls    //display all files and directories(excluding hidden ones)
+ls -a     //display all files and directories including hidden ones
