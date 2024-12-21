@@ -1,0 +1,3 @@
+mkdir folder1
+ls
+touch file1
