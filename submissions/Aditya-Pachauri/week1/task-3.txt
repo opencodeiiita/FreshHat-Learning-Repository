@@ -1,0 +1,4 @@
+sudo su
+chmod +x hello.py
+ls -l hello.py
+https://drive.google.com/file/d/1PpgmJpEGZjSkSUk9ziMn3pol4wsl7Unc/view?usp=sharing
