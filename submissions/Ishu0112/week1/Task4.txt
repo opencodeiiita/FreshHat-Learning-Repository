@@ -1,0 +1,4 @@
+ mkdir task4
+
+ touch demo.c
+ 
