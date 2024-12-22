@@ -1,0 +1,6 @@
+mkdir OpenCode
+ls
+cd OpenCode
+touch file.txt
+ls
+https://drive.google.com/file/d/1GiQJqBSDISL487RRuMShcK9k31bS9zng/view?usp=sharing
