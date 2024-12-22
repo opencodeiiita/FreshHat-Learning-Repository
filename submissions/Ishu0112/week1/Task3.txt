@@ -1,0 +1,3 @@
+sudo su
+chmod +x test.sh
+ls -l
