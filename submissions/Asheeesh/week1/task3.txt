@@ -1,0 +1,4 @@
+sudo su
+chmod +x run.sh
+./run.sh
+ls -l
