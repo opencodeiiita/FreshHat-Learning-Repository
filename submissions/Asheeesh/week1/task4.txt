@@ -1,0 +1,4 @@
+mkdir Dir
+cd Dir
+touch newfile.txt
+ls
