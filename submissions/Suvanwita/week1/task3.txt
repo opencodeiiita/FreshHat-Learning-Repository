@@ -1,2 +1,6 @@
-sudo -i
+//Enter superuser mode
+sudo -i 
+
+//give executable file permissions 
 chmod +x script.sh
+ 
