@@ -1,0 +1,4 @@
+mkdir srk
+cd srk
+touch test.txt
+ls -l
