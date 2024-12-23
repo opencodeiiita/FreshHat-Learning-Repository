@@ -1,0 +1,5 @@
+mkdir suvi
+cd suvi
+touch myfile.txt
+vim myfile.txt
+ls
