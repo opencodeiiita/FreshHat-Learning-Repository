@@ -11,11 +11,11 @@
 ### **Open for All**
 || Task | Points | Format To Submit |
 |--| ------------- | ------------- | ------------------- |
-| 6 | Install and set up **Burp Suite**. Intercept and inspect an HTTP request from your browser. | 20 | S |
-| 7 | Capture live network traffic using **Wireshark**. Save the `.pcap` file and apply a filter to display only HTTP packets. | 20 | S |
-| 8 | Use **SSH** to log in to a localhost or remote server. Run a command like `ls` or `pwd` to confirm access. | 10 | S |
-| 9 | Perform a basic port scan on `127.0.0.1` using **Nmap**. Identify open ports and their services. | 10 | S |
-| 10 | Set up **Metasploit Framework** on your system. Explore the `msfconsole` interface and list the available exploits. | 10 | S |
+| 6 | [Install and set up **Burp Suite**. Intercept and inspect an HTTP request from your browser.](https://github.com/opencodeiiita/FreshHat-Learning-Repository/issues/215) | 20 | S |
+| 7 | [Capture live network traffic using **Wireshark**. Save the `.pcap` file and apply a filter to display only HTTP packets.](https://github.com/opencodeiiita/FreshHat-Learning-Repository/issues/216) | 20 | S |
+| 8 | [Use **SSH** to log in to a localhost or remote server. Run a command like `ls` or `pwd` to confirm access.](https://github.com/opencodeiiita/FreshHat-Learning-Repository/issues/217) | 10 | S |
+| 9 | [Perform a basic port scan on `127.0.0.1` using **Nmap**. Identify open ports and their services.](https://github.com/opencodeiiita/FreshHat-Learning-Repository/issues/218) | 10 | S |
+| 10 | [Set up **Metasploit Framework** on your system. Explore the `msfconsole` interface and list the available exploits.](https://github.com/opencodeiiita/FreshHat-Learning-Repository/issues/219) | 10 | S |
 | **TOTAL** | **70** |
 
 ---
