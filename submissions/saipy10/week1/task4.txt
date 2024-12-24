@@ -1,0 +1,5 @@
+Commands:
+mkdir task4
+cd task4
+touch file.txt
+ls
