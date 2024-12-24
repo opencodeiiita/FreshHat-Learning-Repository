@@ -11,11 +11,11 @@
 ### **Open for All**
 || Task | Points | Format To Submit |
 |--| ------------- | ------------- | ------------------- |
-| 1 | Install and set up **Burp Suite**. Intercept and inspect an HTTP request from your browser. | 20 | S |
-| 2 | Capture live network traffic using **Wireshark**. Save the `.pcap` file and apply a filter to display only HTTP packets. | 20 | S |
-| 3 | Use **SSH** to log in to a localhost or remote server. Run a command like `ls` or `pwd` to confirm access. | 10 | S |
-| 4 | Perform a basic port scan on `127.0.0.1` using **Nmap**. Identify open ports and their services. | 10 | S |
-| 5 | Set up **Metasploit Framework** on your system. Explore the `msfconsole` interface and list the available exploits. | 10 | S |
+| 6 | Install and set up **Burp Suite**. Intercept and inspect an HTTP request from your browser. | 20 | S |
+| 7 | Capture live network traffic using **Wireshark**. Save the `.pcap` file and apply a filter to display only HTTP packets. | 20 | S |
+| 8 | Use **SSH** to log in to a localhost or remote server. Run a command like `ls` or `pwd` to confirm access. | 10 | S |
+| 9 | Perform a basic port scan on `127.0.0.1` using **Nmap**. Identify open ports and their services. | 10 | S |
+| 10 | Set up **Metasploit Framework** on your system. Explore the `msfconsole` interface and list the available exploits. | 10 | S |
 | **TOTAL** | **70** |
 
 ---
