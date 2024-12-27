@@ -1,0 +1,7 @@
+Screenshot: 
+
+Login to bandit games website, using ssh
+https://drive.google.com/file/d/1Oo4b4oRjp-W55nIASW1ygLjgVf7X_D29/view?usp=sharing
+
+Commands run on that system
+https://drive.google.com/file/d/1p9WORvEbJ489mpRTvscVsHhcarnhRNrq/view?usp=sharing
