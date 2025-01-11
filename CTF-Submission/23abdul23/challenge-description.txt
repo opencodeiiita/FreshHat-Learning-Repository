@@ -9,4 +9,4 @@ The challange is to solve the three levels, 1,2,3 to find respective parts(numbe
 
 All levels are uploaded in challenge-files in their respective folders along with hints and further instructions...
 
-The Goal is to find the 9 character FLAG.
+The Goal is to find the 9 character FLAG{XXXXXXXXX}.
