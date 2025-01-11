@@ -56,13 +56,5 @@ Put yourself in the shoes of a **CTF challenge creator**! Design a beginner-frie
 
 ---
 
-### **Points and Leaderboard**
-- **Points**: Award **30 points** for submitting a valid, creative, and beginner-friendly CTF challenge.
-- Additional **bonus points** can be given if:
-  - The challenge is highly creative or fun to solve (+10).
-  - The walkthrough is detailed and well-explained (+5).
-
----
-
 ### **Privacy Note**
 Ensure that your challenge and files do not include any private or sensitive information (e.g., MAC addresses, personal logs, or real-life credentials). Challenges should be created in a controlled, safe, and ethical manner.
