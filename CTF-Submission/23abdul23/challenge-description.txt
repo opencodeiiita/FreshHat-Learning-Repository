@@ -5,7 +5,7 @@ Challenge Description:
 The Flag is hidden in a Static Webpage hosted on github pages, 
 The url of the webpage is broken into three parts and hidden in diffrent levels.
 
-The challange is to solve the three levels, 1,2,3 to find respective parts of a webpage url and then find the Final Flag
+The challange is to solve the three levels, 1,2,3 to find respective parts(numbers) of a webpage url and then find the Final Flag
 
 All levels are uploaded in challenge-files in their respective folders along with hints and further instructions...
 
