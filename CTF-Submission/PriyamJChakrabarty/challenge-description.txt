@@ -1,0 +1,39 @@
+Challenge Title: Hidden in Plain Sight
+
+Challenge Description: Your mission is to find the hidden flag on a simple web page. The flag is concealed within the page's source code or structure. Use your web exploitation skills to uncover it.
+
+Hints:
+
+Examine the page's HTML source code.
+Look for comments or hidden elements.
+Consider inspecting the page's CSS and JavaScript files.
+Flag Format: FLAG{hidden_flag}
+
+Solution Walkthrough:
+
+Access the Web Page:
+
+Navigate to the provided URL to view the web page.
+Inspect the Page Source:
+
+Right-click on the page and select "View Page Source" or press Ctrl+U to open the HTML source code.
+Search for Hidden Elements:
+
+Look through the HTML for any comments, hidden elements, or suspicious tags.
+Pay attention to <div>, <span>, or other tags that might contain hidden text.
+Check for Inline Styles:
+
+Look for CSS styles that might hide elements, such as display: none; or visibility: hidden;.
+Examine External Resources:
+
+If the page includes external CSS or JavaScript files, review them for any hidden information.
+Locate the Flag:
+
+The flag is embedded within an HTML comment in the source code.
+It appears as: <!-- FLAG{hidden_flag} -->.
+Submit the Flag:
+
+Copy the flag FLAG{hidden_flag} and submit it to complete the challenge.
+Challenge Files:
+
+index.html: The main web page file containing the hidden flag.
