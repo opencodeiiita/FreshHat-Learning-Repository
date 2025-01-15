@@ -1,0 +1,11 @@
+challenge-name: "RSA-XOR Hunt"
+
+Challenge description:
+This challenge requires the knowledge of the RSA decryption algorithm.
+Your goal is to find a readable and meaningful flag message in the form: FLAG{-------}
+You shall think of decrypting the message in the encrypted_flag.bin using the needed values in RSA_private_key.txt.
+There is also a QR, whose need is something for you to figure out.
+
+Hint: Don't believe things blindly! Use your knowledge and crosscheck! Use the magic_qr
+If you need, use e=65537 in the RSA public_key 
+
